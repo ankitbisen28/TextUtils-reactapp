@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/TextUtils-reactapp/static/css/main.8321a193.chunk.css",
-    "main.js": "/TextUtils-reactapp/static/js/main.872e910e.chunk.js",
-    "main.js.map": "/TextUtils-reactapp/static/js/main.872e910e.chunk.js.map",
-    "runtime-main.js": "/TextUtils-reactapp/static/js/runtime-main.3f7b18ff.js",
-    "runtime-main.js.map": "/TextUtils-reactapp/static/js/runtime-main.3f7b18ff.js.map",
-    "static/js/2.2461fc07.chunk.js": "/TextUtils-reactapp/static/js/2.2461fc07.chunk.js",
-    "static/js/2.2461fc07.chunk.js.map": "/TextUtils-reactapp/static/js/2.2461fc07.chunk.js.map",
-    "static/js/3.c7192f60.chunk.js": "/TextUtils-reactapp/static/js/3.c7192f60.chunk.js",
-    "static/js/3.c7192f60.chunk.js.map": "/TextUtils-reactapp/static/js/3.c7192f60.chunk.js.map",
+    "main.js": "/TextUtils-reactapp/static/js/main.fabb1022.chunk.js",
+    "main.js.map": "/TextUtils-reactapp/static/js/main.fabb1022.chunk.js.map",
+    "runtime-main.js": "/TextUtils-reactapp/static/js/runtime-main.5d03f9e2.js",
+    "runtime-main.js.map": "/TextUtils-reactapp/static/js/runtime-main.5d03f9e2.js.map",
+    "static/js/2.6ddb03fd.chunk.js": "/TextUtils-reactapp/static/js/2.6ddb03fd.chunk.js",
+    "static/js/2.6ddb03fd.chunk.js.map": "/TextUtils-reactapp/static/js/2.6ddb03fd.chunk.js.map",
+    "static/js/3.74050d98.chunk.js": "/TextUtils-reactapp/static/js/3.74050d98.chunk.js",
+    "static/js/3.74050d98.chunk.js.map": "/TextUtils-reactapp/static/js/3.74050d98.chunk.js.map",
     "index.html": "/TextUtils-reactapp/index.html",
     "static/css/main.8321a193.chunk.css.map": "/TextUtils-reactapp/static/css/main.8321a193.chunk.css.map",
-    "static/js/2.2461fc07.chunk.js.LICENSE.txt": "/TextUtils-reactapp/static/js/2.2461fc07.chunk.js.LICENSE.txt"
+    "static/js/2.6ddb03fd.chunk.js.LICENSE.txt": "/TextUtils-reactapp/static/js/2.6ddb03fd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3f7b18ff.js",
-    "static/js/2.2461fc07.chunk.js",
+    "static/js/runtime-main.5d03f9e2.js",
+    "static/js/2.6ddb03fd.chunk.js",
     "static/css/main.8321a193.chunk.css",
-    "static/js/main.872e910e.chunk.js"
+    "static/js/main.fabb1022.chunk.js"
   ]
 }
