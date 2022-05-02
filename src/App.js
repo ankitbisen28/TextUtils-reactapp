@@ -1,13 +1,13 @@
 import './App.css';
-import About from './components/About';
+// import About from './components/About';
 import Navbar from './components/Navbar';
 import TextForm from './components/TextForm';
 import React, { useState } from 'react'
-import {
-  BrowserRouter as Router,
-  Switch,
-  Route
-} from "react-router-dom";
+// import {
+//   BrowserRouter as Router,
+//   Switch,
+//   Route
+// } from "react-router-dom";
 
 
 function App() {
@@ -25,20 +25,20 @@ function App() {
   }
   return (
     <>
-      <Router>
+      {/* <Router> */}
         {/* <Navbar /> */}
         <Navbar title="TextUtiles" aboutText='About Us' mode={mode} toggleMode={toggleMode} />
         <div className="container">
-          <Switch>
-            <Route exact path="/about">
+          {/* <Switch> */}
+            {/* <Route exact path="/about">
               <About mode={mode}/>
-            </Route>
-            <Route exact path="/">
+            </Route> */}
+            {/* <Route exact path="/"> */}
               <TextForm heading="Try TextUtils - Word Counter, Character Counter" mode={mode} />
-            </Route>
-          </Switch>
+            {/* </Route> */}
+          {/* </Switch> */}
         </div>
-      </Router>
+      {/* </Router> */}
     </>
   );
 }
